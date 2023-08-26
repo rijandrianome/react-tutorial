@@ -44,3 +44,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# GIT STEPS
+
+git status: liste des fichiers changés
+git add . ===> track tous les fichiers changés
+git commit -am "Message de commit"
+git push origin nom_de_la_branche
